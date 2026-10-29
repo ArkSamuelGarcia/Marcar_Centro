@@ -1,0 +1,1 @@
+Extensión para IngeTrazo: Marca de Centro Proporcional en Cruz (+) Genera dos líneas perpendiculares en forma de cruz (+) en el centro exacto del arco o círculo seleccionado. Seleccionar un arco o un circulo, clic derecho, y marcar el centro.
